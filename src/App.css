@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'Borisna';
+  src: url('/public/Borisna.ttf') format('truetype');
+ 
+ }
+ 
+
+body{
+  background-color:#f6f6f6;
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+  max-width: 1920px;
+  font-family: cursive;
+ 
+}
+html {
+  box-sizing: border-box;
+  
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+.stickedimg {
+  position: fixed;
+  bottom: -32px;
+  right: -12px;
+  
+  z-index: 9999; /* Makes sure the image stays on top of other elements */
+}
+
+.sticky-image {
+  width: 160px; /* Adjust size as needed */
+   
+  transition: opacity 0.5s ease;
+}
+
+@media screen and (max-width: 480px) {
+.sticky-image{
+  width: 100px;
+}
+.stickedimg {
+  position: fixed;
+  bottom: -10px;
+  right: -12px;
+  
+ }
+ body{
+ 
+  font-family: Borisna;
+ 
+}
+}
