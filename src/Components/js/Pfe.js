@@ -5,7 +5,7 @@ function Pfe() {
   
   
         return (
-          <div class="brand"  id="projects">
+          <div class="pfeproject" >
             <h1>Print('Final Year Project (PFE)')
             </h1>
             <p className="pfe">
