@@ -40,7 +40,7 @@ function Pfe() {
               </div>
               
           </div><button  className="dnbtn"><a target="_blank" 
-  rel="noopener noreferrer" href="https://drive.google.com/file/d/1-AQ-3FOECrV6ZFYRHhF5RL0yOU8AM6_c/view?usp=sharing" >Active Responce Tutorial</a> </button>
+  rel="noopener noreferrer" href="https://drive.google.com/file/d/1-AQ-3FOECrV6ZFYRHhF5RL0yOU8AM6_c/view?usp=sharing" >Active Response Tutorial</a> </button>
   
         </div>
         );
