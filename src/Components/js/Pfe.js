@@ -22,7 +22,7 @@ function Pfe() {
               <div>
               <ul>
   <li>Installation and configuration of a functional Wazuh environment</li>
-  <li>Deployment of Wazuh agents on endpoints</li>
+  <li>Deployment of Wazuh agents</li>
   <li>Agentless monitoring setup</li>
   <li>Configuration of email alert service</li>
   <li>File Integrity Monitoring (FIM)</li>
